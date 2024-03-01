@@ -1,1 +1,1 @@
-# youtube-reader-app
+# YouTube-Transcript-to-Detailed-Notes-Converter_GoogleGemini
